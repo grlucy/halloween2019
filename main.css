@@ -1,0 +1,16 @@
+#pumpkin {
+    width: 35vw;
+box-shadow: 0 -15px 0 0 orange;
+margin: 40px;
+border-top-left-radius: 12rem;
+border-bottom-right-radius: 12rem;
+}
+.halloween {
+    width: 30vw;
+    position: absolute;
+    top: 80px;
+    left: 50vw;
+}
+h1 {
+    color: orange;
+}
